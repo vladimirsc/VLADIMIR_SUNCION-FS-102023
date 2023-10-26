@@ -1,0 +1,13 @@
+instalar:
+https://git-scm.com/download/win
+
+-------------------------------------
+
+ejecutar los siguientes
+Comandos git
+>git init
+>git add .
+>git commit -m "mensaje"
+>git remote add origin https://github.com/emaravi/fs-102023.git
+>git push -u origin master
+
